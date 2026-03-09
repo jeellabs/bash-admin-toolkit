@@ -1,0 +1,13 @@
+web-01,192.168.1.10,active,nginx
+web-02,192.168.1.11,active,nginx
+web-03,192.168.1.12,maintenance,nginx
+app-01,192.168.1.20,active,nodejs
+app-02,192.168.1.21,active,nodejs
+app-03,192.168.1.22,stopped,nodejs
+db-01,192.168.1.30,active,mysql
+db-02,192.168.1.31,active,mysql
+cache-01,192.168.1.40,active,redis
+cache-02,192.168.1.41,stopped,redis
+monitor-01,192.168.1.50,active,prometheus
+backup-01,192.168.1.60,active,rsync
+
