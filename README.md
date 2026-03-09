@@ -70,3 +70,9 @@ Run script:
 ## Author
 
 Created as part of Linux system administration practice.
+
+<img width="568" height="859" alt="Screenshot 2026-03-09 123630" src="https://github.com/user-attachments/assets/08045da6-ec5d-4032-9815-0f26e838f041" />
+<br><br>
+<img width="810" height="718" alt="Screenshot 2026-03-09 123719" src="https://github.com/user-attachments/assets/2b589747-a6ef-4541-b004-1037bc23efa2" />
+
+
